@@ -1,4 +1,8 @@
+# Deployment Report
 
-# Compliant Private Tokens Workshop - Token Template
-
-This is the Leo project scaffolding for the Aleo compliant private tokens workshop.  For more information, head over to the [main repository](https://github.com/alex-aleo/private-token-workshop).
+- **Repository:** https://github.com/yaqeen-hanifah/private-token-workshop-token-template
+- **Program Name:** `yaqeen_workshop_token.aleo`
+- **Deployment ID:** `at1e6zrsyrrw5z9uadnnwvqudnt8gtgmv00t74kh4mv8qfnak5c2y8qrt504p`
+-  **Public mint:** `at1h9sejrkq4eelslndjmss06q8mry9key757ae7rkjsd8wyxz80c8s3hktzy`
+-  **Private mint:** `at1z3ll7qyecunhn7rz4qr4fs0mmw6g6npz8zusz2arqsc40nry7v8sfhjz57`
+-  **Public transfer:** `at13xak2uure7evlkkxprzzjk2ug9372tjs6g7ady2yjch884f9ks9smvrl9c`
